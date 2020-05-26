@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-This script finds size a file in 'Bytes', 'KB', 'MB', 'GB' or 'TB'. Also finds 
+This script finds size of a file in 'Bytes', 'KB', 'MB', 'GB' or 'TB'. Also finds 
 the file or files with minimum size, maximum size and avearge of all files in a folder.  
     
 Reference:
