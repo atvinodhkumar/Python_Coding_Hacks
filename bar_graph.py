@@ -53,7 +53,7 @@ if mode == 0:
     save_path = save_path +'vertical_bar_graph.png'
     plt.savefig(save_path, bbox_inches='tight')
     
-if mode == 1:
+else:
     N = 5
     ind = np.arange(N) 
     height = 0.13        # height of the bars
